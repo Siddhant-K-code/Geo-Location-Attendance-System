@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221418337703",
+    "firebase_url": "https://location-based-attendanc-34f95.firebaseio.com",
+    "project_id": "location-based-attendanc-34f95",
+    "storage_bucket": "location-based-attendanc-34f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221418337703:android:150b2d5cc56f5f01cf7282",
+        "android_client_info": {
+          "package_name": "example.com.geo_attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221418337703-pbo2mq33vto2mh93tbrdpuj5aj03r4en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWCXhBHHUThStRDoGlaALmyDhnKJmK9Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221418337703-pbo2mq33vto2mh93tbrdpuj5aj03r4en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
